@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 import requests
 
-API_KEY = "YOUR_GROQ_API_KEY"
+API_KEY = "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"
 
 app = FastAPI(title="Health Assistant API")
 
